@@ -1,7 +1,7 @@
 #/*******************************************************
 #Nom ......... : Dogs_Cats_Model_Building_Final.py
 #Context ......: Classifier deep neural network for Dogs and Cats data set
-#                
+#Role .........: Build the neural network model               
 #Auteur ...... : JDO
 #Version ..... : V1
 #Date ........ : 01.10.2020
